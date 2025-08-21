@@ -1,7 +1,0 @@
-ayna-ai/
-├── data/
-│   ├── ayetler.json
-│   ├── hadisler.json
-│   └── kissalar.json
-├── islamic_awareness_ai_v2.py  (Yeni modülümüz)
-└── ... (projenin diğer dosyaları)
